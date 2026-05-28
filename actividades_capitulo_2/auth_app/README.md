@@ -122,11 +122,14 @@ flutter run
 
 ## Capturas de pantalla
 
-> Agregar capturas de las pantallas en ejecución aquí.
+### Login Screen
+![Login Screen](screenshots/login.png)
 
-| Login | Registro | Home |
-|-------|---------|------|
-| *(captura)* | *(captura)* | *(captura)* |
+### Register Screen
+![Register Screen](screenshots/register.png)
+
+### Home Screen
+![Home Screen](screenshots/home.png)
 
 ---
 
