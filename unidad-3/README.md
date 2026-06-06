@@ -304,7 +304,7 @@ Los permisos se solicitan de forma contextual (en el momento en que el usuario l
 
 ## 8. Video de sustentación
 
-> 📹 **Enlace al video:** *(El video de sustentación de máximo 4 minutos será publicado y el enlace actualizado aquí antes de la fecha de entrega)*
+> 📹 **Enlace al video:** [Ver sustentación en Vimeo](https://vimeo.com/1199047756?share=copy&fl=sv&fe=ci)
 
 **Puntos cubiertos en el video:**
 1. El problema que busca resolver la aplicación
